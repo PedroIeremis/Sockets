@@ -1,4 +1,3 @@
-# Sockets programados em Python
-
-Programas usando Sockets para redes
-Neste caso, apenas com o protocolo UDP, que não é um protocolo muito seguro para envio de dados que precisam de segmentação
+## Sockets-Python-UDP
+Programas para Redes em Python usando o protocolo UDP/IP.
+Programas Desenvolvidos durante as Disciplinas de Programação/Programação para Redes, na Graduação em Redes de Computadores pelo IFRN - Central.
